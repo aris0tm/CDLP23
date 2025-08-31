@@ -1,0 +1,9 @@
+'''from win10toast import ToastNotifier
+
+toaster = ToastNotifier()
+toaster.show_toast("New Quest unlocked !!", "perform ddos on clg +69exp", duration=5)
+'''
+from win10toast import ToastNotifier
+
+toaster = ToastNotifier()
+toaster.show_toast("My App", "This is a test notification", duration=5)
